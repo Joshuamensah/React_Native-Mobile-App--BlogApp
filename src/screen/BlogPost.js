@@ -10,10 +10,10 @@ import Image4 from '../../assets/images.jpeg'
 
 export default function BlogPost({ navigation }) {
     const blog = [
-        { imgUrl: Image1, writer: 'Mason Mounts', time: '2', header: "Two Arkansas firemen, Vince and Don, get hold of a map" },
-        { imgUrl: Image2, writer: 'Encil Street', time: '5', header: 'They caught me sliding on the E-Way with the heat' },
-        { imgUrl: Image3, writer: 'Ama Pinamang', time: '8', header: 'Purple Iphone this Summer?' },
-        { imgUrl: Image4, writer: 'Desmond elliot', time: '23', header: 'Remember the Name "EMINEM"' }
+        { imgUrl: Image1, writer: 'Mason Mounts', time: '2', header: "Does Dry is January Actually Improve Your Health?" },
+        { imgUrl: Image2, writer: 'Encil Street', time: '5', header: 'How to Seem like You Always Have Your Shot Together' },
+        { imgUrl: Image3, writer: 'Ama Pinamang', time: '8', header: 'How to make your Days Awesome.' },
+        { imgUrl: Image4, writer: 'Desmond elliot', time: '4', header: 'Focus On Learning and Creating Rather Than Entertainment and Distraction' }
     ];
 
 

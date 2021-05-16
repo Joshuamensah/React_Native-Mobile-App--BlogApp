@@ -2,7 +2,7 @@ import React from 'react'
 import { View, SafeAreaView, StyleSheet, Image, Text } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { Entypo } from '@expo/vector-icons';
-import Picture from '../../assets/flower2.jpeg'
+import Picture from '../../assets/flower2.jpeg';
 import { ScrollView } from 'react-native-gesture-handler';
 
 
@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     },
     Title: {
         fontSize: 23,
-        fontFamily: 'Palatino-Bold'
+        //fontFamily: 'Palatino-bold'
     },
     Proimage: {
         height: 25,
